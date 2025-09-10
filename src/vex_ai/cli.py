@@ -1,4 +1,2 @@
-# CLI entrypoint placeholder
-# Purpose: Will expose commands like `ingest`, `audio`, `video`, and `highlight`.
-# For now, this file is a stub with no executable code.
-
+# CLI entrypoint
+# Purpose: Define CLI commands (e.g., probe, ingest, ingest-batch) for developer workflows.

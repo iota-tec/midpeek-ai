@@ -1,0 +1,7 @@
+# Default configuration for development
+# Purpose: Centralize tunables for probe/ingest steps.
+
+frame_count: 16        # number of frames to sample per video
+max_duration_s: 600    # skip videos longer than this (seconds)
+resize_wh: [640, 360]  # width, height for resized frames
+sample_rate: 16000     # audio sample rate (Hz)
