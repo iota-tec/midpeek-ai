@@ -10,3 +10,9 @@ venv/
 .idea/
 .vscode/
 
+# Project artifacts (keep dir, ignore contents)
+artifacts/
+!artifacts/.gitkeep
+
+# Environment files
+.env
