@@ -1,4 +1,4 @@
-midpeek-ai — Minimal Scaffold
+midpeek.ai — Minimal Scaffold
 
 This repository is a minimal starting point to turn long Valorant recordings into short highlight reels.
 
